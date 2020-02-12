@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="gadm36_HTI_2" id="gadm36_HTI_2">
+	<SimpleField name="NAME_0" type="string"></SimpleField>
+	<SimpleField name="NAME_1" type="string"></SimpleField>
+	<SimpleField name="NAME_2" type="string"></SimpleField>
+</Schema>
+<Folder><name>gadm36_HTI_2</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#gadm36_HTI_2">
+		<SimpleData name="NAME_0">Haiti</SimpleData>
+		<SimpleData name="NAME_1">Centre</SimpleData>
+		<SimpleData name="NAME_2">Cerca La Source</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates> -71.78252411,19.00144577 -71.86244202,18.97875786 -71.86618042,18.99453926 -71.85639191,19.02180672 -71.89855957,19.03608704 -71.89813232,19.04981041 -71.90449524,19.09967613 -71.88165283,19.12041283 -71.85458374,19.15743065 -71.86555481,19.18662262 -71.88648224,19.20218086 -71.87756348,19.21020699 -71.85388947,19.269804 -71.76532745,19.27581024 -71.74788666,19.28334045 -71.6181488,19.2116642 -71.62281036,19.1910553 -71.63608551,19.15176964</coordinates></LinearRing></outerBoundaryIs><innerBoundaryIs><LinearRing><coordinates> -71.76335144,19.0351162 -71.76183319,19.03150558 -71.76335144,19.0351162</coordinates></LinearRing></innerBoundaryIs></Polygon></MultiGeometry>  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#gadm36_HTI_2">
+		<SimpleData name="NAME_0">Haiti</SimpleData>
+		<SimpleData name="NAME_1">Centre</SimpleData>
+		<SimpleData name="NAME_2">Hinche</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates> -71.87634277,18.94551277 -71.88306427,18.94257545 -71.96775055,18.94484711 -71.99835205,18.93640709 -72.06330872,18.95459366 -72.12314606,19.02771759 -72.18881226,19.07759285 -72.22173309,19.08333969 -72.21957397,19.13085365 -72.25704956,19.17018127 -72.25745392,19.20391273 -72.26573181,19.21598244 -72.24068451,19.23444939 -72.23907471,19.25183296 -72.20330811,19.30045319 -72.15863037,19.27911377 -72.13496399,19.25487328 -72.03093719,19.3073082 -72.00865173,19.3273201 -71.98223114,19.33316612 -71.85388947,19.269804 -71.87756348,19.21020699 -71.88648224,19.20218086 -71.86555481,19.18662262 -71.85458374,19.15743065 -71.88165283,19.12041283 -71.90449524,19.09967613 -71.89813232,19.04981041 -71.89855957,19.03608704 -71.85639191,19.02180672 -71.86618042,18.99453926 -71.86244202,18.97875786 -71.86993408,18.96396446 -71.87634277,18.94551277</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#gadm36_HTI_2">
+		<SimpleData name="NAME_0">Haiti</SimpleData>
+		<SimpleData name="NAME_1">Centre</SimpleData>
+		<SimpleData name="NAME_2">Lascahobas</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates> -71.97107697,18.74674034 -71.93824768,18.75488091 -71.94999695,18.77291298 -71.99555206,18.82595062 -72.02480316,18.84258842 -72.04055786,18.87296867 -72.05069733,18.8827343 -72.06497192,18.90124321 -72.03110504,18.90549088 -71.99674988,18.92452812 -71.99835205,18.93640709 -71.96775055,18.94484711 -71.88306427,18.94257545 -71.87634277,18.94551277 -71.77695465,18.95830917 -71.76747894,18.92295074 -71.75608063,18.91014481 -71.71720123,18.88301086 -71.71554565,18.83714294 -71.7170639,18.8083725 -71.72367096,18.77570915 -71.72676849,18.758564 -71.73027802,18.73915482 -71.73222351,18.72632217 -71.7678833,18.71303749 -71.78001404,18.69633484</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#gadm36_HTI_2">
+		<SimpleData name="NAME_0">Haiti</SimpleData>
+		<SimpleData name="NAME_1">Centre</SimpleData>
+		<SimpleData name="NAME_2">Mirebalais</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates> -72.07352448,18.73658943 -72.15558624,18.69735146 -72.19390869,18.75141907 -72.2249527,18.77233315 -72.31937408,18.81156731 -72.35125732,18.85134888 -72.36031342,18.85585785 -72.36466217,18.86577034 -72.24641418,18.87485695 -72.24360657,18.89962006 -72.24684143,18.90526581 -72.24082947,18.91653633 -72.24391174,18.91811752 -72.22493744,18.9563179 -72.23696136,18.99301338 -72.23849487,19.03672028 -72.22173309,19.08333969 -72.18881226,19.07759285 -72.12314606,19.02771759 -72.06330872,18.95459366 -71.99835205,18.93640709 -71.99674988,18.92452812 -72.03110504,18.90549088 -72.06497192,18.90124321 -72.05069733,18.8827343 -72.04055786,18.87296867 -72.02480316,18.84258842 -71.99555206,18.82595062 -71.94999695,18.77291298 -71.93824768,18.75488091 -71.97107697,18.74674034 -72.00528717,18.72997475 -72.07352448,18.73658943</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#gadm36_HTI_2">
+		<SimpleData name="NAME_0">Haiti</SimpleData>
+		<SimpleData name="NAME_1">Grand'Anse</SimpleData>
+		<SimpleData name="NAME_2">Anse d'Hainault</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates> -74.3878479,18.36276245 -74.44763947,18.37097168 -74.44875336,18.39343834 -74.47402954,18.42113304 -74.45266724,18.48485947 -74.44189453,18.51745224 -74.41495514,18.58236122 -74.33493042,18.56097412 -74.3287735,18.54862404 -74.37477875,18.51094055 -74.31091309,18.46151733 -74.30439758,18.45853806 -74.33426666,18.41857338 -74.29389954,18.39463997 -74.3878479,18.36276245</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#gadm36_HTI_2">
+		<SimpleData name="NAME_0">Haiti</SimpleData>
+		<SimpleData name="NAME_1">Grand'Anse</SimpleData>
+		<SimpleData name="NAME_2">Corail</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates> -73.99986267,19.00013924</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates> -73.80180359,18.61291695</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates> -73.69847107,18.62013817</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates> -73.88541412,18.58875084</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates> -73.9109726,18.59069443</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates> -73.86270905,18.40615845 -73.92787933,18.36613274 -73.93990326,18.3700695 -73.96751404,18.36982346 -74.00273895,18.38362885 -74.03551483,18.38738632 -74.04125214,18.38750648 -74.08586121,18.4068222 -74.10652161,18.40340424 -74.07540894,18.52309036 -73.77999878,18.42385483 -73.8212738,18.41280174 -73.86270905,18.40615845</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#gadm36_HTI_2">
+		<SimpleData name="NAME_0">Haiti</SimpleData>
+		<SimpleData name="NAME_1">Grand'Anse</SimpleData>
+		<SimpleData name="NAME_2">Jérémie</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates> -74.33426666,18.41857338 -74.30439758,18.45853806 -74.31091309,18.46151733 -74.37477875,18.51094055 -74.3287735,18.54862404 -74.33493042,18.56097412 -74.26403046,18.6660099 -74.22652435,18.67302322 -74.22568512,18.67313957 -74.07540894,18.52309036 -74.10652161,18.40340424 -74.21496582,18.40386391 -74.24401855,18.37513351 -74.29389954,18.39463997 -74.33426666,18.41857338</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#gadm36_HTI_2">
+		<SimpleData name="NAME_0">Haiti</SimpleData>
+		<SimpleData name="NAME_1">L'Artibonite</SimpleData>
+		<SimpleData name="NAME_2">Dessalines</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates> -72.73625183,19.31402779</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates> -72.31642914,18.93773651 -72.33831024,18.97002792 -72.36612701,18.98458481 -72.35396576,18.98636246 -72.37973022,19.02544975 -72.44960785,19.08154297 -72.47473145,19.1109581 -72.51217651,19.14796257 -72.59996796,19.15853119 -72.60778809,19.14932251 -72.60046387,19.20237541 -72.63108063,19.22353745 -72.66299438,19.23999786 -72.72210693,19.28430748 -72.71569824,19.29569435 -72.68028259,19.33485985 -72.61054993,19.29894447 -72.5827179,19.30394173 -72.51050568,19.33662033 -72.49776459,19.33707809 -72.48264313,19.3134079 -72.44382477,19.27620506 -72.26573181,19.21598244 -72.25745392,19.20391273 -72.25704956,19.17018127 -72.21957397,19.13085365 -72.22173309,19.08333969 -72.23849487,19.03672028 -72.23696136,18.99301338 -72.22493744,18.9563179 -72.24391174,18.91811752 -72.31642914,18.93773651</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#gadm36_HTI_2">
+		<SimpleData name="NAME_0">Haiti</SimpleData>
+		<SimpleData name="NAME_1">L'Artibonite</SimpleData>
+		<SimpleData name="NAME_2">Gros-Morne</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates> -73.12374878,19.6267395 -73.12321472,19.62737274 -73.12374878,19.6267395</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates> -72.71331024,19.61100388 -72.7186203,19.58545876 -72.72814941,19.53633881 -72.78287506,19.52805901 -72.99180603,19.61208344 -73.12321472,19.62737274 -73.11743164,19.68090439 -73.12058258,19.70197487 -73.01086426,19.73080826 -72.92440033,19.72585297 -72.85812378,19.71279907 -72.82907867,19.73148918 -72.7245636,19.80950546 -72.67799377,19.80883408 -72.65327454,19.77664948 -72.63737488,19.77366829 -72.63959503,19.77220726 -72.60582733,19.74349976 -72.59765625,19.71425629 -72.57378387,19.67327881 -72.57082367,19.64408875 -72.60574341,19.64947891 -72.70257568,19.60363388 -72.71331024,19.61100388</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#gadm36_HTI_2">
+		<SimpleData name="NAME_0">Haiti</SimpleData>
+		<SimpleData name="NAME_1">L'Artibonite</SimpleData>
+		<SimpleData name="NAME_2">les Gonaïves</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates> -72.68482208,19.40343666 -72.68211365,19.41193199 -72.69687653,19.45069313 -72.78287506,19.52805901 -72.72814941,19.53633881 -72.7186203,19.58545876 -72.71331024,19.61100388 -72.70257568,19.60363388 -72.60574341,19.64947891 -72.57082367,19.64408875 -72.5459671,19.60346413 -72.53585052,19.58247375 -72.51524353,19.58182144 -72.51776123,19.568573 -72.4471817,19.52129745 -72.40249634,19.47516823 -72.379776,19.47012711 -72.3575058,19.47690201 -72.37804413,19.44306755 -72.4595108,19.40703964 -72.46474457,19.39046097 -72.49328613,19.35333443 -72.49776459,19.33707809 -72.51050568,19.33662033 -72.5827179,19.30394173 -72.61054993,19.29894447 -72.68028259,19.33485985 -72.70430756,19.41041756 -72.68482208,19.40343666</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#gadm36_HTI_2">
+		<SimpleData name="NAME_0">Haiti</SimpleData>
+		<SimpleData name="NAME_1">L'Artibonite</SimpleData>
+		<SimpleData name="NAME_2">Marmelade</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates> -72.26573181,19.21598244 -72.44382477,19.27620506 -72.48264313,19.3134079 -72.49776459,19.33707809 -72.49328613,19.35333443 -72.46474457,19.39046097 -72.4595108,19.40703964 -72.37804413,19.44306755 -72.3575058,19.47690201 -72.379776,19.47012711 -72.40249634,19.47516823 -72.4471817,19.52129745 -72.41504669,19.5449791 -72.42477417,19.55878067 -72.42310333,19.56519508 -72.4118042,19.57125473 -72.35907745,19.58550644 -72.31909943,19.55864143 -72.32205963,19.51091003 -72.31865692,19.48716545 -72.32068634,19.48445892 -72.29699707,19.46566963 -72.24951935,19.4769001 -72.22290039,19.41910553 -72.22930145,19.40002632 -72.22881317,19.3841362 -72.24864197,19.38453674 -72.23027039,19.36365318 -72.22431946,19.33843422 -72.20069122,19.31134796 -72.20330811,19.30045319 -72.23907471,19.25183296 -72.24068451,19.23444939 -72.26573181,19.21598244</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#gadm36_HTI_2">
+		<SimpleData name="NAME_0">Haiti</SimpleData>
+		<SimpleData name="NAME_1">L'Artibonite</SimpleData>
+		<SimpleData name="NAME_2">Saint-Marc</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates> -72.36466217,18.86577034 -72.42807007,18.91472054 -72.48203278,18.94381714 -72.49388123,18.95681 -72.54543304,18.96068001 -72.59410095,18.97374535 -72.71150208,18.94322777 -72.71180725,18.94342232 -72.69985962,19.12430573 -72.75291443,19.23374939 -72.66299438,19.23999786 -72.63108063,19.22353745 -72.60046387,19.20237541 -72.60778809,19.14932251 -72.59996796,19.15853119 -72.51217651,19.14796257 -72.47473145,19.1109581 -72.44960785,19.08154297 -72.37973022,19.02544975 -72.35396576,18.98636246 -72.36612701,18.98458481 -72.33831024,18.97002792 -72.31642914,18.93773651 -72.24391174,18.91811752 -72.24082947,18.91653633 -72.24684143,18.90526581 -72.24360657,18.89962006 -72.24641418,18.87485695 -72.36466217,18.86577034</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#gadm36_HTI_2">
+		<SimpleData name="NAME_0">Haiti</SimpleData>
+		<SimpleData name="NAME_1">Nippes</SimpleData>
+		<SimpleData name="NAME_2">l'Anse-à-Veau</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates> -73.67680359,18.5573616</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates> -73.55735779,18.51597214</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates> -73.64763641,18.52180481</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates> -73.53569794,18.52625275</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates> -73.65875244,18.54013824</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates> -73.57041931,18.50985909</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates> -73.26376343,18.40105438 -73.26139069,18.38136292 -73.26680756,18.35975456 -73.33057404,18.37067986 -73.4416275,18.34071922 -73.49797821,18.33716011 -73.55456543,18.33603287 -73.53860474,18.3845253 -73.6681366,18.4332428 -73.69100952,18.40895844 -73.73776245,18.41588974 -73.77999878,18.42385483 -73.56319427,18.58152771 -73.25745392,18.43690109 -73.25857544,18.40807152 -73.26376343,18.40105438</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#gadm36_HTI_2">
+		<SimpleData name="NAME_0">Haiti</SimpleData>
+		<SimpleData name="NAME_1">Nippes</SimpleData>
+		<SimpleData name="NAME_2">Miragoâne</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates> -72.99665833,18.32391548 -73.00880432,18.24045944 -73.01122284,18.22264099 -73.04219818,18.30024719 -73.26680756,18.35975456 -73.26139069,18.38136292 -73.26376343,18.40105438 -73.25857544,18.40807152 -73.25745392,18.43690109 -73.04454803,18.43740082 -73.01086426,18.36055183 -72.99665833,18.32391548</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates> -73.0965271,18.44958305</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#gadm36_HTI_2">
+		<SimpleData name="NAME_0">Haiti</SimpleData>
+		<SimpleData name="NAME_1">Nord</SimpleData>
+		<SimpleData name="NAME_2">Borgne</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates> -72.13496399,19.25487328 -72.15863037,19.27911377 -72.15066528,19.28449821 -72.1513443,19.307621 -72.15982056,19.32187462 -72.16889191,19.34845161 -72.12734222,19.38458252 -72.11157227,19.40414238 -72.10533905,19.42481613 -72.09122467,19.4482708 -72.03681946,19.42949677 -72.02070618,19.4141922 -72.0136261,19.40286446 -71.99011993,19.36606789 -71.97023773,19.3432045 -71.98223114,19.33316612 -72.00865173,19.3273201 -72.03093719,19.3073082 -72.13496399,19.25487328</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates> -72.44618988,19.68552399 -72.46047974,19.67703056 -72.47143555,19.66310692 -72.50679779,19.71788406 -72.51594543,19.74273872 -72.55079651,19.73339081 -72.57447815,19.76583481 -72.63959503,19.77220726 -72.63737488,19.77366829 -72.65327454,19.77664948 -72.67799377,19.80883408 -72.67720795,19.81378174 -72.67723846,19.83268547 -72.61499023,19.81789207 -72.59086609,19.83138657 -72.58002472,19.85040283 -72.49461365,19.8204174 -72.49433899,19.82011604 -72.49201202,19.82039833 -72.40369415,19.7693882 -72.41623688,19.74150658 -72.43003082,19.72401428 -72.42893982,19.72319603 -72.44618988,19.68552399</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#gadm36_HTI_2">
+		<SimpleData name="NAME_0">Haiti</SimpleData>
+		<SimpleData name="NAME_1">Nord</SimpleData>
+		<SimpleData name="NAME_2">Grande-Rivière du Nord</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates> -72.11157227,19.40414238 -72.12734222,19.38458252 -72.13158417,19.41028214 -72.18103027,19.49210739 -72.21152496,19.51377106 -72.21615601,19.54192162 -72.21373749,19.55714417 -72.22511292,19.58153534 -72.20440674,19.59614754 -72.16704559,19.62385941 -72.12114716,19.58872414 -72.09683228,19.53690147 -72.09532928,19.51610374 -72.06209564,19.47758484 -72.09122467,19.4482708 -72.10533905,19.42481613 -72.11157227,19.40414238</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#gadm36_HTI_2">
+		<SimpleData name="NAME_0">Haiti</SimpleData>
+		<SimpleData name="NAME_1">Nord</SimpleData>
+		<SimpleData name="NAME_2">l'Acul-du-Nord</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates> -72.19752502,19.62664795 -72.18877411,19.62259293 -72.20440674,19.59614754 -72.22511292,19.58153534 -72.24732208,19.57200623 -72.27146149,19.5778904 -72.27024078,19.56529427 -72.31909943,19.55864143 -72.35907745,19.58550644 -72.4118042,19.57125473 -72.4028244,19.57997513 -72.39519501,19.61680603 -72.35876465,19.65826225 -72.35660553,19.6714325 -72.34117889,19.68967056 -72.37088013,19.72345352 -72.31097412,19.72180748 -72.30874634,19.73847198 -72.24506378,19.72883224 -72.23644257,19.71199608 -72.20722961,19.71665382 -72.18598938,19.6947155 -72.18710327,19.65600967 -72.19752502,19.62664795</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#gadm36_HTI_2">
+		<SimpleData name="NAME_0">Haiti</SimpleData>
+		<SimpleData name="NAME_1">Nord</SimpleData>
+		<SimpleData name="NAME_2">le Cap-Haïtien</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates> -72.11013794,19.63437462 -72.10572815,19.60289574 -72.12114716,19.58872414 -72.16704559,19.62385941 -72.20440674,19.59614754 -72.18877411,19.62259293 -72.19752502,19.62664795 -72.18710327,19.65600967 -72.18598938,19.6947155 -72.20722961,19.71665382 -72.23644257,19.71199608 -72.24506378,19.72883224 -72.18875122,19.78319359 -72.19291687,19.75958252 -72.1581955,19.74654388 -72.03624725,19.72597313 -72.0585556,19.67576218 -72.06647491,19.65556145 -72.06408691,19.64468765 -72.09346771,19.62609863 -72.11013794,19.63437462</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#gadm36_HTI_2">
+		<SimpleData name="NAME_0">Haiti</SimpleData>
+		<SimpleData name="NAME_1">Nord</SimpleData>
+		<SimpleData name="NAME_2">le Limbé</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates> -72.37374878,19.81624985</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates> -72.42310333,19.56519508 -72.44814301,19.61519814 -72.45070648,19.63733101 -72.46047974,19.67703056 -72.44618988,19.68552399 -72.42893982,19.72319603 -72.43003082,19.72401428 -72.41623688,19.74150658 -72.40369415,19.7693882 -72.38041687,19.81680679 -72.37088013,19.72345352 -72.34117889,19.68967056 -72.35660553,19.6714325 -72.35876465,19.65826225 -72.39519501,19.61680603 -72.4028244,19.57997513 -72.4118042,19.57125473 -72.42310333,19.56519508</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#gadm36_HTI_2">
+		<SimpleData name="NAME_0">Haiti</SimpleData>
+		<SimpleData name="NAME_1">Nord</SimpleData>
+		<SimpleData name="NAME_2">Plaisance</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates> -72.42477417,19.55878067 -72.41504669,19.5449791 -72.4471817,19.52129745 -72.51776123,19.568573 -72.51524353,19.58182144 -72.53585052,19.58247375 -72.5459671,19.60346413 -72.57082367,19.64408875 -72.57378387,19.67327881 -72.59765625,19.71425629 -72.60582733,19.74349976 -72.63959503,19.77220726 -72.57447815,19.76583481 -72.55079651,19.73339081 -72.51594543,19.74273872 -72.50679779,19.71788406 -72.47143555,19.66310692 -72.46047974,19.67703056 -72.45070648,19.63733101 -72.44814301,19.61519814 -72.42310333,19.56519508 -72.42477417,19.55878067</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#gadm36_HTI_2">
+		<SimpleData name="NAME_0">Haiti</SimpleData>
+		<SimpleData name="NAME_1">Nord</SimpleData>
+		<SimpleData name="NAME_2">Saint-Raphaël</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates> -72.24864197,19.38453674 -72.22881317,19.3841362 -72.22930145,19.40002632 -72.22290039,19.41910553 -72.24951935,19.4769001 -72.29699707,19.46566963 -72.32068634,19.48445892 -72.31865692,19.48716545 -72.32205963,19.51091003 -72.31909943,19.55864143 -72.27024078,19.56529427 -72.27146149,19.5778904 -72.24732208,19.57200623 -72.22511292,19.58153534 -72.21373749,19.55714417 -72.21615601,19.54192162 -72.21152496,19.51377106 -72.18103027,19.49210739 -72.13158417,19.41028214 -72.12734222,19.38458252 -72.16889191,19.34845161 -72.15982056,19.32187462 -72.1513443,19.307621 -72.15066528,19.28449821 -72.15863037,19.27911377 -72.20330811,19.30045319 -72.20069122,19.31134796 -72.22431946,19.33843422 -72.23027039,19.36365318 -72.24864197,19.38453674</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#gadm36_HTI_2">
+		<SimpleData name="NAME_0">Haiti</SimpleData>
+		<SimpleData name="NAME_1">Nord-Est</SimpleData>
+		<SimpleData name="NAME_2">Fort-Liberté</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates> -71.89073944,19.46035194 -71.93784332,19.47953415 -71.96031952,19.49839211 -71.96949005,19.50818634 -71.96388245,19.52284431 -71.93532562,19.54989433 -71.8947525,19.5340271 -71.88265228,19.54645538 -71.89463806,19.58250809 -71.89411926,19.61351395 -71.89224243,19.64734077 -71.81041718,19.67458344 -71.83985901,19.7009716 -71.73110962,19.65005302 -71.74198914,19.58880615 -71.80453491,19.59242249 -71.80532837,19.56378746 -71.82802582,19.47681236 -71.83939362,19.43947792 -71.85316467,19.4240303 -71.86680603,19.42673111 -71.87317657,19.43626404 -71.89073944,19.46035194</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#gadm36_HTI_2">
+		<SimpleData name="NAME_0">Haiti</SimpleData>
+		<SimpleData name="NAME_1">Nord-Est</SimpleData>
+		<SimpleData name="NAME_2">le Trou-du-Nord</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates> -71.85375214,19.6823616</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates> -72.04792023,19.69708252</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates> -72.00257111,19.44630432 -72.03681946,19.42949677 -72.09122467,19.4482708 -72.06209564,19.47758484 -72.09532928,19.51610374 -72.09683228,19.53690147 -72.12114716,19.58872414 -72.10572815,19.60289574 -72.11013794,19.63437462 -72.09346771,19.62609863 -72.06408691,19.64468765 -72.06647491,19.65556145 -72.0585556,19.67576218 -71.99013519,19.70986176 -71.89224243,19.64734077 -71.89411926,19.61351395 -71.89463806,19.58250809 -71.88265228,19.54645538 -71.8947525,19.5340271 -71.93532562,19.54989433 -71.96388245,19.52284431 -71.96949005,19.50818634 -72.01902008,19.5257473 -72.00969696,19.51057243 -72.00257111,19.44630432</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#gadm36_HTI_2">
+		<SimpleData name="NAME_0">Haiti</SimpleData>
+		<SimpleData name="NAME_1">Nord-Est</SimpleData>
+		<SimpleData name="NAME_2">Ouanaminthe</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates> -71.85316467,19.4240303 -71.83939362,19.43947792 -71.82802582,19.47681236 -71.80532837,19.56378746 -71.80453491,19.59242249 -71.74198914,19.58880615 -71.72901917,19.57724953 -71.68536377,19.51358032 -71.67583466,19.44829369 -71.69101715,19.38286209 -71.68826294,19.37752342</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#gadm36_HTI_2">
+		<SimpleData name="NAME_0">Haiti</SimpleData>
+		<SimpleData name="NAME_1">Nord-Est</SimpleData>
+		<SimpleData name="NAME_2">Vallières</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates> -71.76532745,19.27581024 -71.85388947,19.269804 -71.98223114,19.33316612 -71.97023773,19.3432045 -71.99011993,19.36606789 -72.0136261,19.40286446 -72.02070618,19.4141922 -72.03681946,19.42949677 -72.00257111,19.44630432 -72.00969696,19.51057243 -72.01902008,19.5257473 -71.96949005,19.50818634 -71.96031952,19.49839211 -71.93784332,19.47953415 -71.89073944,19.46035194 -71.87317657,19.43626404 -71.86680603,19.42673111 -71.85316467,19.4240303 -71.74788666,19.28334045 -71.76532745,19.27581024</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#gadm36_HTI_2">
+		<SimpleData name="NAME_0">Haiti</SimpleData>
+		<SimpleData name="NAME_1">Nord-Ouest</SimpleData>
+		<SimpleData name="NAME_2">Môle Saint-Nicolas</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates> -73.99986267,20.00013924</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates> -72.99847412,19.91796494 -72.99872589,19.91785622 -72.99847412,19.91796494</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates> -72.99872589,19.91785622 -72.99971008,19.88789749 -73.02026367,19.81350899 -73.02059174,19.79167938 -73.01086426,19.73080826 -73.12058258,19.70197487 -73.11743164,19.68090439 -73.12321472,19.62737274 -73.12374878,19.6267395 -73.30319214,19.62907219</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#gadm36_HTI_2">
+		<SimpleData name="NAME_0">Haiti</SimpleData>
+		<SimpleData name="NAME_1">Nord-Ouest</SimpleData>
+		<SimpleData name="NAME_2">Port-de-Paix</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates> -72.99986267,20.00013924</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates> -72.61985779,19.9976387 -72.71075439,20.00333023</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates> -72.85812378,19.71279907 -72.92440033,19.72585297 -73.01086426,19.73080826 -73.02059174,19.79167938 -73.02026367,19.81350899 -72.99971008,19.88789749 -72.99872589,19.91785622 -72.99847412,19.91796494 -72.7604599,19.92028999 -72.76300812,19.8909874 -72.74175262,19.88001633 -72.74725342,19.86592484 -72.73235321,19.84609222 -72.7245636,19.80950546 -72.82907867,19.73148918 -72.85812378,19.71279907</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#gadm36_HTI_2">
+		<SimpleData name="NAME_0">Haiti</SimpleData>
+		<SimpleData name="NAME_1">Nord-Ouest</SimpleData>
+		<SimpleData name="NAME_2">Saint-Louis du Nord</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates> -72.67799377,19.80883408 -72.7245636,19.80950546 -72.73235321,19.84609222 -72.74725342,19.86592484 -72.74175262,19.88001633 -72.76300812,19.8909874 -72.7604599,19.92028999 -72.58002472,19.85040283 -72.59086609,19.83138657 -72.61499023,19.81789207 -72.67723846,19.83268547 -72.67720795,19.81378174 -72.67799377,19.80883408</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#gadm36_HTI_2">
+		<SimpleData name="NAME_0">Haiti</SimpleData>
+		<SimpleData name="NAME_1">Ouest</SimpleData>
+		<SimpleData name="NAME_2">Croix-des-Bouquets</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates> -71.71983337,18.29155922 -71.7802887,18.28292656 -71.85380554,18.27570152 -71.86458588,18.2935276 -71.86195374,18.31912231 -71.93356323,18.30692482 -71.95264435,18.31728935 -72.06739807,18.3202343 -72.19943237,18.35217094 -72.20161438,18.37860489 -72.20288086,18.39019966 -72.19486237,18.4208107 -72.16452026,18.430933 -72.15891266,18.45988655 -72.2175827,18.53064728 -72.22922516,18.55042267 -72.22940063,18.55076408 -72.31777954,18.66559982 -72.33201599,18.68263817 -72.31186676,18.70371246 -72.32848358,18.73376846 -72.35185242,18.75681114 -72.32632446,18.78928947 -72.31937408,18.81156731 -72.2249527,18.77233315 -72.19390869,18.75141907 -72.15558624,18.69735146 -72.07352448,18.73658943 -72.00528717,18.72997475 -71.97107697,18.74674034 -71.80149078,18.6383419 -71.82756805,18.63324738 -72.00083923,18.62756157 -71.95876312,18.60085487 -71.94848633,18.57936859 -71.92372894,18.55414772 -71.88600159,18.51690102 -71.87497711,18.49282074 -71.8925705,18.45624733 -71.85958862,18.44037247 -71.83799744,18.43108177 -71.78533936,18.37909317 -71.72629547,18.35746384 -71.68799591,18.34273529 -71.71983337,18.29155922</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#gadm36_HTI_2">
+		<SimpleData name="NAME_0">Haiti</SimpleData>
+		<SimpleData name="NAME_1">Ouest</SimpleData>
+		<SimpleData name="NAME_2">l'Arcahaie</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates> -72.37596893,18.6954174</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates> -72.71150208,18.94322777 -72.71180725,18.94342232 -72.71150208,18.94322777</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates> -72.33201599,18.68263817 -72.71150208,18.94322777 -72.59410095,18.97374535 -72.54543304,18.96068001 -72.49388123,18.95681 -72.48203278,18.94381714 -72.42807007,18.91472054 -72.36466217,18.86577034 -72.36031342,18.85585785 -72.35125732,18.85134888 -72.31937408,18.81156731 -72.32632446,18.78928947 -72.35185242,18.75681114 -72.32848358,18.73376846 -72.31186676,18.70371246 -72.33201599,18.68263817</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#gadm36_HTI_2">
+		<SimpleData name="NAME_0">Haiti</SimpleData>
+		<SimpleData name="NAME_1">Ouest</SimpleData>
+		<SimpleData name="NAME_2">La Gonâve</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates> -72.80152893,18.70069504</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates> -72.99986267,19.00013924</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates> -73.01763916,18.91041756</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates> -72.99708557,18.74563026 -72.80652618,18.77625084 -72.79291534,18.73819351 -72.80596924,18.70708275 -72.836586,18.72018433</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates> -72.9054184,18.85763931</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#gadm36_HTI_2">
+		<SimpleData name="NAME_0">Haiti</SimpleData>
+		<SimpleData name="NAME_1">Ouest</SimpleData>
+		<SimpleData name="NAME_2">Léogâne</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates> -72.88384247,18.27640915 -72.99665833,18.32391548 -73.01086426,18.36055183 -73.04454803,18.43740082 -72.88999176,18.44226646 -72.56833649,18.50112343 -72.46904755,18.47618675 -72.45549774,18.45045662 -72.45016479,18.42106056 -72.45134735,18.39696312 -72.5869751,18.35196686 -72.641922,18.33054352 -72.6485672,18.32597542 -72.70874786,18.29624939 -72.74370575,18.32361984 -72.74008942,18.3001461 -72.82750702,18.28925514 -72.85053253,18.26093292 -72.88384247,18.27640915</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates> -72.74874878,18.4323616</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#gadm36_HTI_2">
+		<SimpleData name="NAME_0">Haiti</SimpleData>
+		<SimpleData name="NAME_1">Ouest</SimpleData>
+		<SimpleData name="NAME_2">Port-au-Prince</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates> -72.36474609,18.3528862 -72.36707306,18.37796021 -72.42211914,18.39748192 -72.45134735,18.39696312 -72.45016479,18.42106056 -72.45549774,18.45045662 -72.46904755,18.47618675 -72.56833649,18.50112343 -72.33930206,18.57513618 -72.33913422,18.59301376 -72.22940063,18.55076408 -72.22922516,18.55042267 -72.2175827,18.53064728 -72.15891266,18.45988655 -72.16452026,18.430933 -72.19486237,18.4208107 -72.20288086,18.39019966 -72.20161438,18.37860489 -72.19943237,18.35217094 -72.2542038,18.35727501 -72.36474609,18.3528862</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#gadm36_HTI_2">
+		<SimpleData name="NAME_0">Haiti</SimpleData>
+		<SimpleData name="NAME_1">Sud</SimpleData>
+		<SimpleData name="NAME_2">Aquin</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates> -73.51097107,18.21430779</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates> -73.53097534,18.2140274</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates> -73.45847321,18.21791649</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates> -73.38597107,18.21819496</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates> -73.3529129,18.25402641 -73.60152435,18.2506237 -73.68180847,18.23837471 -73.68911743,18.31373787 -73.69247437,18.34962654 -73.69100952,18.40895844 -73.6681366,18.4332428 -73.53860474,18.3845253 -73.55456543,18.33603287 -73.49797821,18.33716011 -73.4416275,18.34071922 -73.33057404,18.37067986 -73.26680756,18.35975456 -73.04219818,18.30024719 -73.01122284,18.22264099 -73.00113678,18.20740509 -73.00517273,18.18572044</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates> -73.55069733,18.25263977</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates> -73.39347076,18.25902748</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#gadm36_HTI_2">
+		<SimpleData name="NAME_0">Haiti</SimpleData>
+		<SimpleData name="NAME_1">Sud</SimpleData>
+		<SimpleData name="NAME_2">les Cayes</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates> -73.57096863,18.07014084</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates> -73.62374878,18.14180565</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates> -73.85398102,18.12219238 -73.87290192,18.15245056 -73.88017273,18.16016579 -73.90144348,18.1751461 -73.94052887,18.19530106 -73.99162292,18.26307678 -74.01621246,18.30360222 -74.04132843,18.33048058 -74.03551483,18.38738632 -74.00273895,18.38362885 -73.96751404,18.36982346 -73.93990326,18.3700695 -73.92787933,18.36613274 -73.86270905,18.40615845 -73.8212738,18.41280174 -73.77999878,18.42385483 -73.73776245,18.41588974 -73.69100952,18.40895844 -73.69247437,18.34962654 -73.68911743,18.31373787 -73.68180847,18.23837471 -73.85398102,18.12219238</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#gadm36_HTI_2">
+		<SimpleData name="NAME_0">Haiti</SimpleData>
+		<SimpleData name="NAME_1">Sud</SimpleData>
+		<SimpleData name="NAME_2">les Chardonnières</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates> -74.3878479,18.36276245 -74.29389954,18.39463997 -74.24401855,18.37513351 -74.21496582,18.40386391 -74.10652161,18.40340424 -74.08586121,18.4068222 -74.04125214,18.38750648 -74.03551483,18.38738632 -74.04132843,18.33048058</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#gadm36_HTI_2">
+		<SimpleData name="NAME_0">Haiti</SimpleData>
+		<SimpleData name="NAME_1">Sud</SimpleData>
+		<SimpleData name="NAME_2">les Côteaux</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates> -73.94657135,18.16206932 -74.07632446,18.23263931 -74.04132843,18.33048058 -74.01621246,18.30360222 -73.99162292,18.26307678 -73.94052887,18.19530106 -73.94657135,18.16206932</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#gadm36_HTI_2">
+		<SimpleData name="NAME_0">Haiti</SimpleData>
+		<SimpleData name="NAME_1">Sud</SimpleData>
+		<SimpleData name="NAME_2">Port-Salut</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates> -71.76335144,19.0351162 -71.76183319,19.03150558 -71.76335144,19.0351162</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates> -73.94657135,18.16206932 -73.94052887,18.19530106 -73.90144348,18.1751461 -73.88017273,18.16016579 -73.87290192,18.15245056 -73.85398102,18.12219238 -73.88985443,18.0254364 -73.89233398,18.02687073 -73.89260864,18.02710915</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#gadm36_HTI_2">
+		<SimpleData name="NAME_0">Haiti</SimpleData>
+		<SimpleData name="NAME_1">Sud-Est</SimpleData>
+		<SimpleData name="NAME_2">Bainet</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates> -73.00517273,18.18572044 -73.00517273,18.18572044</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates> -73.00113678,18.20740509 -73.01122284,18.22264099 -73.00880432,18.24045944 -72.99665833,18.32391548 -72.88384247,18.27640915 -72.85053253,18.26093292 -72.82750702,18.28925514 -72.74008942,18.3001461 -72.74370575,18.32361984 -72.70874786,18.29624939 -72.63033295,18.2948761 -72.63954926,18.25945854 -72.65316772,18.23607826 -72.6378479,18.19014168 -72.74624634,18.15708351</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#gadm36_HTI_2">
+		<SimpleData name="NAME_0">Haiti</SimpleData>
+		<SimpleData name="NAME_1">Sud-Est</SimpleData>
+		<SimpleData name="NAME_2">Belle-Anse</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates> -72.23014069,18.2226162 -72.22567749,18.22265434 -72.23014069,18.2226162</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates> -71.85444641,18.12771606 -72.22567749,18.22265434 -72.22097015,18.25127029 -72.22689056,18.28076744 -72.22930908,18.30427933 -72.23571014,18.33641052 -72.2542038,18.35727501 -72.19943237,18.35217094 -72.06739807,18.3202343 -71.95264435,18.31728935 -71.93356323,18.30692482 -71.86195374,18.31912231 -71.86458588,18.2935276 -71.85380554,18.27570152 -71.7802887,18.28292656 -71.71983337,18.29155922 -71.73023987,18.27384949 -71.73587036,18.13389969 -71.72834778,18.09659576 -71.72714233,18.08143616</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#gadm36_HTI_2">
+		<SimpleData name="NAME_0">Haiti</SimpleData>
+		<SimpleData name="NAME_1">Sud-Est</SimpleData>
+		<SimpleData name="NAME_2">Jacmel</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates> -72.6378479,18.19014168 -72.6378479,18.19014168</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates> -72.65316772,18.23607826 -72.63954926,18.25945854 -72.63033295,18.2948761 -72.70874786,18.29624939 -72.6485672,18.32597542 -72.641922,18.33054352 -72.5869751,18.35196686 -72.45134735,18.39696312 -72.42211914,18.39748192 -72.36707306,18.37796021 -72.36474609,18.3528862 -72.2542038,18.35727501 -72.23571014,18.33641052 -72.22930908,18.30427933 -72.22689056,18.28076744 -72.22097015,18.25127029 -72.22567749,18.22265434 -72.23014069,18.2226162 -72.39654541,18.22964287 -72.39680481,18.22958755 -72.3970871,18.22952843 -72.54069519,18.18958282 -72.65316772,18.23607826</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>  </Placemark>
+</Folder>
+</Document></kml>
